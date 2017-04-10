@@ -1,2 +1,3 @@
-# express-express-handlebars-boilerplate
-boilerplate for using express with express-handlebars
+Practice directory for express-session
+
+Renzo Tomlinson
